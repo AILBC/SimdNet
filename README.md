@@ -1,2 +1,2 @@
 # SimdNet
-# The details will be released in the near future.
+# After the paper is accepted, we will release the code.
