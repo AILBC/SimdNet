@@ -1,2 +1,2 @@
 # SimdNet
-# After the paper is accepted, we will release the code.
+# Code is available at https://github.com/kurisu92725/SimdNet
